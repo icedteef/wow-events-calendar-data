@@ -1,0 +1,981 @@
+{
+  "schemaVersion": 1,
+  "gameVersion": "retail",
+  "region": "US",
+  "source": "WoWCalendarExporter",
+  "sourceExportedAtUTC": "2026-10-28T16:08:33Z",
+  "sourceTimeZone": "America/Los_Angeles",
+  "safeForAbsoluteNotifications": false,
+  "verificationStatus": "review-only",
+  "monthsScanned": 12,
+  "events": [
+    {
+      "id": "74d0beb0cc7547bcf202",
+      "eventID": 372,
+      "title": "Brewfest",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-09-20T14:00:00Z",
+      "endUTC": "2026-10-06T14:00:00Z"
+    },
+    {
+      "id": "8098d3c8b215c45aa06c",
+      "eventID": 702,
+      "title": "PvP Brawl: Deep Six",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-09-29T15:00:00Z",
+      "endUTC": "2026-10-06T15:00:00Z"
+    },
+    {
+      "id": "cfef2f2bcba2de960579",
+      "eventID": 592,
+      "title": "World Quest Bonus Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-09-29T15:00:00Z",
+      "endUTC": "2026-10-06T14:00:00Z"
+    },
+    {
+      "id": "bfd1fa0dc9e3f06ce2ad",
+      "eventID": 479,
+      "title": "Darkmoon Faire",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-10-04T07:01:00Z",
+      "endUTC": "2026-10-11T06:59:00Z"
+    },
+    {
+      "id": "73907f4de2154f43dfb7",
+      "eventID": 666,
+      "title": "PvP Brawl: Arathi Blizzard",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-10-06T15:00:00Z",
+      "endUTC": "2026-10-13T15:00:00Z"
+    },
+    {
+      "id": "c7a989e2e106737edf95",
+      "eventID": 643,
+      "title": "Timewalking Dungeon Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-10-06T15:00:00Z",
+      "endUTC": "2026-10-13T14:00:00Z"
+    },
+    {
+      "id": "d22689c304b56dba28cf",
+      "eventID": 696,
+      "title": "The Great Gnomeregan Run",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-10-10T07:01:00Z",
+      "endUTC": "2026-10-12T06:59:00Z"
+    },
+    {
+      "id": "9456e06d7c4721b12595",
+      "eventID": 563,
+      "title": "Battleground Bonus Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-10-13T15:00:00Z",
+      "endUTC": "2026-10-20T14:00:00Z"
+    },
+    {
+      "id": "861cbd88316f861b40cb",
+      "eventID": 565,
+      "title": "Pet Battle Bonus Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-10-13T15:00:00Z",
+      "endUTC": "2026-10-20T14:00:00Z"
+    },
+    {
+      "id": "4be70a3f4f75c2a94b6d",
+      "eventID": 663,
+      "title": "PvP Brawl: Gravity Lapse",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-10-13T15:00:00Z",
+      "endUTC": "2026-10-20T15:00:00Z"
+    },
+    {
+      "id": "7b72d1fc876dedf59283",
+      "eventID": 1880,
+      "title": "The Unbinding of Kith'ix",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-10-13T15:00:00Z",
+      "endUTC": "2026-10-14T15:00:00Z"
+    },
+    {
+      "id": "b1a87166a6b0a12d45c5",
+      "eventID": 1884,
+      "title": "The Unbinding of Kith'ix",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-10-13T15:00:00Z",
+      "endUTC": "2026-10-14T15:00:00Z"
+    },
+    {
+      "id": "27af83a09a5dda753731",
+      "eventID": 1888,
+      "title": "The Unbinding of Kith'ix",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-10-13T15:00:00Z",
+      "endUTC": "2026-10-14T15:00:00Z"
+    },
+    {
+      "id": "9f793cd4071cd1534cf4",
+      "eventID": 324,
+      "title": "Hallow's End",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-10-19T17:00:00Z",
+      "endUTC": "2026-11-02T19:00:00Z"
+    },
+    {
+      "id": "e89005798d07cfc30031",
+      "eventID": 1559,
+      "title": "Delves Bonus Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-10-20T15:00:00Z",
+      "endUTC": "2026-10-27T14:00:00Z"
+    },
+    {
+      "id": "236633f603ac0b929ba3",
+      "eventID": 1240,
+      "title": "PvP Brawl: Deepwind Dunk",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-10-20T15:00:00Z",
+      "endUTC": "2026-10-27T15:00:00Z"
+    },
+    {
+      "id": "04f3b697a408cbcf6545",
+      "eventID": 1233,
+      "title": "PvP Brawl: Shado-Pan Showdown",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-10-27T15:00:00Z",
+      "endUTC": "2026-11-03T16:00:00Z"
+    },
+    {
+      "id": "c2dfa55a150d06f56653",
+      "eventID": 1056,
+      "title": "Timewalking Dungeon Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-10-27T15:00:00Z",
+      "endUTC": "2026-11-03T15:00:00Z"
+    },
+    {
+      "id": "832917542025e8ff2a9a",
+      "eventID": 479,
+      "title": "Darkmoon Faire",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-11-01T07:01:00Z",
+      "endUTC": "2026-11-08T07:59:00Z"
+    },
+    {
+      "id": "0da3d52dd0d5e413611c",
+      "eventID": 409,
+      "title": "Day of the Dead",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-11-01T18:00:00Z",
+      "endUTC": "2026-11-03T18:00:00Z"
+    },
+    {
+      "id": "fa97397e4ef7549bf92d",
+      "eventID": 1802,
+      "title": "Midnight Dungeon Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-11-03T15:00:00Z",
+      "endUTC": "2026-11-10T14:00:00Z"
+    },
+    {
+      "id": "9d338ad969826a5ba8b9",
+      "eventID": 664,
+      "title": "PvP Brawl: Warsong Scramble",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-11-03T16:00:00Z",
+      "endUTC": "2026-11-10T16:00:00Z"
+    },
+    {
+      "id": "0bb04b93979a051b2cd8",
+      "eventID": 561,
+      "title": "Arena Skirmish Bonus Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-11-10T15:00:00Z",
+      "endUTC": "2026-11-17T14:00:00Z"
+    },
+    {
+      "id": "f981e52aa1155529b4b8",
+      "eventID": 1047,
+      "title": "PvP Brawl: Cooking Impossible",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-11-10T16:00:00Z",
+      "endUTC": "2026-11-17T16:00:00Z"
+    },
+    {
+      "id": "c6333057e406b25d06cf",
+      "eventID": 694,
+      "title": "Moonkin Festival",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-11-12T08:01:00Z",
+      "endUTC": "2026-11-13T07:59:00Z"
+    },
+    {
+      "id": "66c3fb3b99f4433cffce",
+      "eventID": 1263,
+      "title": "Timewalking Dungeon Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-11-17T15:00:00Z",
+      "endUTC": "2026-11-24T14:00:00Z"
+    },
+    {
+      "id": "2b10d55a795b36b7cfee",
+      "eventID": 1170,
+      "title": "PvP Brawl: Temple of Hotmogu",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-11-17T16:00:00Z",
+      "endUTC": "2026-11-24T16:00:00Z"
+    },
+    {
+      "id": "b852b048a6b423b6f87d",
+      "eventID": 1808,
+      "title": "WoW's 22nd Anniversary",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-11-17T18:00:00Z",
+      "endUTC": "2026-12-08T18:00:00Z"
+    },
+    {
+      "id": "75a9566fa94ff0758750",
+      "eventID": 404,
+      "title": "Pilgrim's Bounty",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-11-22T18:00:00Z",
+      "endUTC": "2026-11-29T17:00:00Z"
+    },
+    {
+      "id": "e11c5e5163d4f7faadff",
+      "eventID": 592,
+      "title": "World Quest Bonus Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-11-24T15:00:00Z",
+      "endUTC": "2026-12-01T14:00:00Z"
+    },
+    {
+      "id": "59c1f2225d74f34dcf8d",
+      "eventID": 662,
+      "title": "PvP Brawl: Southshore vs. Tarren Mill",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-11-24T16:00:00Z",
+      "endUTC": "2026-12-01T16:00:00Z"
+    },
+    {
+      "id": "ab97df0524960946b6d8",
+      "eventID": 565,
+      "title": "Pet Battle Bonus Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-12-01T15:00:00Z",
+      "endUTC": "2026-12-08T14:00:00Z"
+    },
+    {
+      "id": "80b0a969c4319d86720a",
+      "eventID": 563,
+      "title": "Battleground Bonus Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-12-01T16:00:00Z",
+      "endUTC": "2026-12-08T15:00:00Z"
+    },
+    {
+      "id": "f72399ffb77400c435b5",
+      "eventID": 1120,
+      "title": "PvP Brawl: Classic Ashran",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-12-01T16:00:00Z",
+      "endUTC": "2026-12-08T16:00:00Z"
+    },
+    {
+      "id": "532c1331bc97b927fc42",
+      "eventID": 479,
+      "title": "Darkmoon Faire",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-12-06T08:01:00Z",
+      "endUTC": "2026-12-13T07:59:00Z"
+    },
+    {
+      "id": "ce4904aa0af15470d649",
+      "eventID": 1052,
+      "title": "Wanderer's Festival",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-12-07T08:01:00Z",
+      "endUTC": "2026-12-08T07:59:00Z"
+    },
+    {
+      "id": "15cc2e9c563fc465f226",
+      "eventID": 1669,
+      "title": "Timewalking Dungeon Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-12-08T15:00:00Z",
+      "endUTC": "2026-12-15T14:00:00Z"
+    },
+    {
+      "id": "01bb4875d54fb31421b0",
+      "eventID": 667,
+      "title": "PvP Brawl: Packed House",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-12-08T16:00:00Z",
+      "endUTC": "2026-12-15T16:00:00Z"
+    },
+    {
+      "id": "06169d4d0af40d1204b6",
+      "eventID": 1559,
+      "title": "Delves Bonus Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-12-15T15:00:00Z",
+      "endUTC": "2026-12-22T14:00:00Z"
+    },
+    {
+      "id": "83f0afcdaab1a83bb32e",
+      "eventID": 702,
+      "title": "PvP Brawl: Deep Six",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-12-15T16:00:00Z",
+      "endUTC": "2026-12-22T16:00:00Z"
+    },
+    {
+      "id": "3a80f5c94baf54fbed26",
+      "eventID": 141,
+      "title": "Feast of Winter Veil",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-12-15T18:00:00Z",
+      "endUTC": "2027-01-02T18:00:00Z"
+    },
+    {
+      "id": "d792d35da485fa9c72f9",
+      "eventID": 1802,
+      "title": "Midnight Dungeon Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-12-22T15:00:00Z",
+      "endUTC": "2026-12-29T14:00:00Z"
+    },
+    {
+      "id": "18131e0c2613d460be6c",
+      "eventID": 666,
+      "title": "PvP Brawl: Arathi Blizzard",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-12-22T16:00:00Z",
+      "endUTC": "2026-12-29T16:00:00Z"
+    },
+    {
+      "id": "ddee6e5f25b9f230fe10",
+      "eventID": 1703,
+      "title": "Timewalking Dungeon Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-12-29T15:00:00Z",
+      "endUTC": "2027-01-05T14:00:00Z"
+    },
+    {
+      "id": "8b16d6d588c1ee250d0f",
+      "eventID": 663,
+      "title": "PvP Brawl: Gravity Lapse",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2026-12-29T16:00:00Z",
+      "endUTC": "2027-01-05T16:00:00Z"
+    },
+    {
+      "id": "f22778fca2acedc07b64",
+      "eventID": 658,
+      "title": "Fireworks Celebration",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-01-01T02:00:00Z",
+      "endUTC": "2027-01-01T14:00:00Z"
+    },
+    {
+      "id": "17169881161d7680b95e",
+      "eventID": 479,
+      "title": "Darkmoon Faire",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-01-03T08:01:00Z",
+      "endUTC": "2027-01-10T07:59:00Z"
+    },
+    {
+      "id": "952306ce72be4a28421a",
+      "eventID": 1240,
+      "title": "PvP Brawl: Deepwind Dunk",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-01-05T16:00:00Z",
+      "endUTC": "2027-01-12T16:00:00Z"
+    },
+    {
+      "id": "3d8618a8cb1784c3ebe5",
+      "eventID": 1233,
+      "title": "PvP Brawl: Shado-Pan Showdown",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-01-12T16:00:00Z",
+      "endUTC": "2027-01-19T16:00:00Z"
+    },
+    {
+      "id": "c8fef7d425a6e00e1359",
+      "eventID": 1722,
+      "title": "Timewalking Dungeon Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-01-19T15:00:00Z",
+      "endUTC": "2027-01-26T14:00:00Z"
+    },
+    {
+      "id": "825a435777d2e7faea2c",
+      "eventID": 664,
+      "title": "PvP Brawl: Warsong Scramble",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-01-19T16:00:00Z",
+      "endUTC": "2027-01-26T16:00:00Z"
+    },
+    {
+      "id": "e37a826b32d005583dbb",
+      "eventID": 638,
+      "title": "Call of the Scarab",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-01-21T08:01:00Z",
+      "endUTC": "2027-01-24T07:59:00Z"
+    },
+    {
+      "id": "7f4d639d8a0fb3f81365",
+      "eventID": 1047,
+      "title": "PvP Brawl: Cooking Impossible",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-01-26T16:00:00Z",
+      "endUTC": "2027-02-02T16:00:00Z"
+    },
+    {
+      "id": "f1d467fed98e84b52567",
+      "eventID": 1170,
+      "title": "PvP Brawl: Temple of Hotmogu",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-02-02T16:00:00Z",
+      "endUTC": "2027-02-09T16:00:00Z"
+    },
+    {
+      "id": "dc1ca6d1cafeecfc311a",
+      "eventID": 327,
+      "title": "Lunar Festival",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-02-02T18:00:00Z",
+      "endUTC": "2027-02-16T18:00:00Z"
+    },
+    {
+      "id": "ddedbc4cb68cb10ac03f",
+      "eventID": 479,
+      "title": "Darkmoon Faire",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-02-07T08:01:00Z",
+      "endUTC": "2027-02-14T07:59:00Z"
+    },
+    {
+      "id": "2c9ef7017a60a5a1a051",
+      "eventID": 423,
+      "title": "Love is in the Air",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-02-08T18:00:00Z",
+      "endUTC": "2027-02-22T18:00:00Z"
+    },
+    {
+      "id": "88dd8a5032cc2b468320",
+      "eventID": 1508,
+      "title": "Timewalking Dungeon Event",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-02-09T15:00:00Z",
+      "endUTC": "2027-02-16T14:00:00Z"
+    },
+    {
+      "id": "8182bbf90313cc5452d2",
+      "eventID": 662,
+      "title": "PvP Brawl: Southshore vs. Tarren Mill",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-02-09T16:00:00Z",
+      "endUTC": "2027-02-16T16:00:00Z"
+    },
+    {
+      "id": "cdb79639a5cc35df8cdf",
+      "eventID": 1120,
+      "title": "PvP Brawl: Classic Ashran",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-02-16T16:00:00Z",
+      "endUTC": "2027-02-23T16:00:00Z"
+    },
+    {
+      "id": "f1c61cb714fdb0efac37",
+      "eventID": 634,
+      "title": "Hatching of the Hippogryphs",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-02-23T08:01:00Z",
+      "endUTC": "2027-02-24T07:59:00Z"
+    },
+    {
+      "id": "dbd65c2b55da81b48281",
+      "eventID": 1395,
+      "title": "Kalimdor Cup",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-02-23T08:01:00Z",
+      "endUTC": "2027-03-09T07:59:00Z"
+    },
+    {
+      "id": "25ba92dbee6926abab28",
+      "eventID": 667,
+      "title": "PvP Brawl: Packed House",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-02-23T16:00:00Z",
+      "endUTC": "2027-03-02T16:00:00Z"
+    },
+    {
+      "id": "e3afb78d59bd6ade87bf",
+      "eventID": 702,
+      "title": "PvP Brawl: Deep Six",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-03-02T16:00:00Z",
+      "endUTC": "2027-03-09T16:00:00Z"
+    },
+    {
+      "id": "99091c0ea3d3d8d10ea5",
+      "eventID": 479,
+      "title": "Darkmoon Faire",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-03-07T08:01:00Z",
+      "endUTC": "2027-03-14T07:59:00Z"
+    },
+    {
+      "id": "ae5ed75e61d16dd131c3",
+      "eventID": 666,
+      "title": "PvP Brawl: Arathi Blizzard",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-03-09T16:00:00Z",
+      "endUTC": "2027-03-16T15:00:00Z"
+    },
+    {
+      "id": "7ea080dea64539190b70",
+      "eventID": 663,
+      "title": "PvP Brawl: Gravity Lapse",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-03-16T15:00:00Z",
+      "endUTC": "2027-03-23T15:00:00Z"
+    },
+    {
+      "id": "45872327aa314175c0f7",
+      "eventID": 644,
+      "title": "Un'Goro Madness",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-03-17T07:01:00Z",
+      "endUTC": "2027-03-20T06:59:00Z"
+    },
+    {
+      "id": "a36c97ab0ee51f67ec20",
+      "eventID": 691,
+      "title": "Trial of Style",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-03-20T17:00:00Z",
+      "endUTC": "2027-03-27T17:00:00Z"
+    },
+    {
+      "id": "61503300857b8f5be998",
+      "eventID": 1240,
+      "title": "PvP Brawl: Deepwind Dunk",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-03-23T15:00:00Z",
+      "endUTC": "2027-03-30T15:00:00Z"
+    },
+    {
+      "id": "cd9d3bfcfa33a1d2111b",
+      "eventID": 181,
+      "title": "Noblegarden",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-03-29T17:00:00Z",
+      "endUTC": "2027-04-05T17:00:00Z"
+    },
+    {
+      "id": "174a89710ab8dc1d4bfc",
+      "eventID": 1233,
+      "title": "PvP Brawl: Shado-Pan Showdown",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-03-30T15:00:00Z",
+      "endUTC": "2027-04-06T15:00:00Z"
+    },
+    {
+      "id": "3e2578fc9db37b587b06",
+      "eventID": 479,
+      "title": "Darkmoon Faire",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-04-04T07:01:00Z",
+      "endUTC": "2027-04-11T06:59:00Z"
+    },
+    {
+      "id": "d9aff02a8e70b26630a2",
+      "eventID": 647,
+      "title": "March of the Tadpoles",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-04-05T07:01:00Z",
+      "endUTC": "2027-04-06T06:59:00Z"
+    },
+    {
+      "id": "f0aac3d573ae0f949f24",
+      "eventID": 664,
+      "title": "PvP Brawl: Warsong Scramble",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-04-06T15:00:00Z",
+      "endUTC": "2027-04-13T15:00:00Z"
+    },
+    {
+      "id": "779615878424e1df56ba",
+      "eventID": 1047,
+      "title": "PvP Brawl: Cooking Impossible",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-04-13T15:00:00Z",
+      "endUTC": "2027-04-20T15:00:00Z"
+    },
+    {
+      "id": "3c4003698d54ebd1d375",
+      "eventID": 1170,
+      "title": "PvP Brawl: Temple of Hotmogu",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-04-20T15:00:00Z",
+      "endUTC": "2027-04-27T15:00:00Z"
+    },
+    {
+      "id": "5d908a693d4c571705d3",
+      "eventID": 662,
+      "title": "PvP Brawl: Southshore vs. Tarren Mill",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-04-27T15:00:00Z",
+      "endUTC": "2027-05-04T15:00:00Z"
+    },
+    {
+      "id": "88d8fc5af7fff24c06fc",
+      "eventID": 635,
+      "title": "Volunteer Guard Day",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-04-28T07:01:00Z",
+      "endUTC": "2027-04-29T06:59:00Z"
+    },
+    {
+      "id": "907834a363dac0c6c532",
+      "eventID": 479,
+      "title": "Darkmoon Faire",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-05-02T07:01:00Z",
+      "endUTC": "2027-05-09T06:59:00Z"
+    },
+    {
+      "id": "095dba109674a5f1d62c",
+      "eventID": 201,
+      "title": "Children's Week",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-05-03T17:00:00Z",
+      "endUTC": "2027-05-10T17:00:00Z"
+    },
+    {
+      "id": "8015709d4c812a043e68",
+      "eventID": 1120,
+      "title": "PvP Brawl: Classic Ashran",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-05-04T15:00:00Z",
+      "endUTC": "2027-05-11T15:00:00Z"
+    },
+    {
+      "id": "81ea23610b228d8d8b7d",
+      "eventID": 645,
+      "title": "Spring Balloon Festival",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-05-10T07:01:00Z",
+      "endUTC": "2027-05-13T06:59:00Z"
+    },
+    {
+      "id": "fe74ab5dd80ec22d7b4d",
+      "eventID": 667,
+      "title": "PvP Brawl: Packed House",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-05-11T15:00:00Z",
+      "endUTC": "2027-05-18T15:00:00Z"
+    },
+    {
+      "id": "b640c48225073d7db337",
+      "eventID": 702,
+      "title": "PvP Brawl: Deep Six",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-05-18T15:00:00Z",
+      "endUTC": "2027-05-25T15:00:00Z"
+    },
+    {
+      "id": "8080cbb6d7f867d7b46f",
+      "eventID": 666,
+      "title": "PvP Brawl: Arathi Blizzard",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-05-25T15:00:00Z",
+      "endUTC": "2027-06-01T15:00:00Z"
+    },
+    {
+      "id": "246d982162b73b4c2672",
+      "eventID": 648,
+      "title": "Glowcap Festival",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-05-27T07:01:00Z",
+      "endUTC": "2027-05-28T06:59:00Z"
+    },
+    {
+      "id": "a7b57a05b07fd82ef5c8",
+      "eventID": 663,
+      "title": "PvP Brawl: Gravity Lapse",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-06-01T15:00:00Z",
+      "endUTC": "2027-06-08T15:00:00Z"
+    },
+    {
+      "id": "e707c08a5d319bc89152",
+      "eventID": 479,
+      "title": "Darkmoon Faire",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-06-06T07:01:00Z",
+      "endUTC": "2027-06-13T06:59:00Z"
+    },
+    {
+      "id": "59952470f5f2e5d6dd13",
+      "eventID": 642,
+      "title": "Thousand Boat Bash",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-06-06T07:01:00Z",
+      "endUTC": "2027-06-09T06:59:00Z"
+    },
+    {
+      "id": "05a2e4f0cb31ca532ace",
+      "eventID": 1240,
+      "title": "PvP Brawl: Deepwind Dunk",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-06-08T15:00:00Z",
+      "endUTC": "2027-06-15T15:00:00Z"
+    },
+    {
+      "id": "55b522ad6cf30fb92319",
+      "eventID": 1233,
+      "title": "PvP Brawl: Shado-Pan Showdown",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-06-15T15:00:00Z",
+      "endUTC": "2027-06-22T15:00:00Z"
+    },
+    {
+      "id": "2459f2de6f7ea040a364",
+      "eventID": 341,
+      "title": "Midsummer Fire Festival",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-06-21T17:00:00Z",
+      "endUTC": "2027-07-05T17:00:00Z"
+    },
+    {
+      "id": "3210623ebceb942b4a71",
+      "eventID": 664,
+      "title": "PvP Brawl: Warsong Scramble",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-06-22T15:00:00Z",
+      "endUTC": "2027-06-29T15:00:00Z"
+    },
+    {
+      "id": "b85a0769a40a48a6a73c",
+      "eventID": 1793,
+      "title": "Darkspear Dash",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-06-26T07:01:00Z",
+      "endUTC": "2027-06-28T06:59:00Z"
+    },
+    {
+      "id": "6bcf127c55e62ce29cd1",
+      "eventID": 1047,
+      "title": "PvP Brawl: Cooking Impossible",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-06-29T15:00:00Z",
+      "endUTC": "2027-07-06T15:00:00Z"
+    },
+    {
+      "id": "3265f3d7887f958a96af",
+      "eventID": 479,
+      "title": "Darkmoon Faire",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-07-04T07:01:00Z",
+      "endUTC": "2027-07-11T06:59:00Z"
+    },
+    {
+      "id": "128b019ca92d1bb35a44",
+      "eventID": 62,
+      "title": "Fireworks Spectacular",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-07-04T17:00:00Z",
+      "endUTC": "2027-07-05T11:00:00Z"
+    },
+    {
+      "id": "b23b14ae0cc45db2ed91",
+      "eventID": 1170,
+      "title": "PvP Brawl: Temple of Hotmogu",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-07-06T15:00:00Z",
+      "endUTC": "2027-07-13T15:00:00Z"
+    },
+    {
+      "id": "f742e8b942e323fca425",
+      "eventID": 1054,
+      "title": "Luminous Luminaries",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-07-13T07:01:00Z",
+      "endUTC": "2027-07-14T06:59:00Z"
+    },
+    {
+      "id": "998232d3aa7cb47cc46c",
+      "eventID": 662,
+      "title": "PvP Brawl: Southshore vs. Tarren Mill",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-07-13T15:00:00Z",
+      "endUTC": "2027-07-20T15:00:00Z"
+    },
+    {
+      "id": "8f1cea1237c6e15b9dde",
+      "eventID": 1120,
+      "title": "PvP Brawl: Classic Ashran",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-07-20T15:00:00Z",
+      "endUTC": "2027-07-27T15:00:00Z"
+    },
+    {
+      "id": "99a7ebe7f2cd9488a9ae",
+      "eventID": 692,
+      "title": "Auction House Dance Party",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-07-22T07:01:00Z",
+      "endUTC": "2027-07-23T06:59:00Z"
+    },
+    {
+      "id": "43fb82a48968cea89408",
+      "eventID": 667,
+      "title": "PvP Brawl: Packed House",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-07-27T15:00:00Z",
+      "endUTC": "2027-08-03T15:00:00Z"
+    },
+    {
+      "id": "8eec04234915cb4ff2f0",
+      "eventID": 479,
+      "title": "Darkmoon Faire",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-08-01T07:01:00Z",
+      "endUTC": "2027-08-08T06:59:00Z"
+    },
+    {
+      "id": "64a757b106c032a231a8",
+      "eventID": 691,
+      "title": "Trial of Style",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-08-01T17:00:00Z",
+      "endUTC": "2027-08-08T17:00:00Z"
+    },
+    {
+      "id": "f299cf29dd13cced21ae",
+      "eventID": 702,
+      "title": "PvP Brawl: Deep Six",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-08-03T15:00:00Z",
+      "endUTC": "2027-08-10T15:00:00Z"
+    },
+    {
+      "id": "2e41eba7e017b7a3ed21",
+      "eventID": 666,
+      "title": "PvP Brawl: Arathi Blizzard",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-08-10T15:00:00Z",
+      "endUTC": "2027-08-17T15:00:00Z"
+    },
+    {
+      "id": "cb376c96f6dfcd7cb6ba",
+      "eventID": 1053,
+      "title": "Free T-Shirt Day",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-08-16T07:01:00Z",
+      "endUTC": "2027-08-17T06:59:00Z"
+    },
+    {
+      "id": "fba0a41c74b550660340",
+      "eventID": 663,
+      "title": "PvP Brawl: Gravity Lapse",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-08-17T15:00:00Z",
+      "endUTC": "2027-08-24T15:00:00Z"
+    },
+    {
+      "id": "88307dca297cbb47c9d4",
+      "eventID": 1400,
+      "title": "Eastern Kingdoms Cup",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-08-24T07:01:00Z",
+      "endUTC": "2027-09-07T06:59:00Z"
+    },
+    {
+      "id": "50feb549c38072e0fed7",
+      "eventID": 1240,
+      "title": "PvP Brawl: Deepwind Dunk",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-08-24T15:00:00Z",
+      "endUTC": "2027-08-31T15:00:00Z"
+    },
+    {
+      "id": "289cfc93e64b79cefe6f",
+      "eventID": 1233,
+      "title": "PvP Brawl: Shado-Pan Showdown",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-08-31T15:00:00Z",
+      "endUTC": "2027-09-07T15:00:00Z"
+    },
+    {
+      "id": "2f2fb9dd82e1707c4bed",
+      "eventID": 479,
+      "title": "Darkmoon Faire",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-09-05T07:01:00Z",
+      "endUTC": "2027-09-12T06:59:00Z"
+    },
+    {
+      "id": "87c1a92d63f5a0bb0081",
+      "eventID": 664,
+      "title": "PvP Brawl: Warsong Scramble",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-09-07T15:00:00Z",
+      "endUTC": "2027-09-14T15:00:00Z"
+    },
+    {
+      "id": "a7092586ccf3e4323373",
+      "eventID": 321,
+      "title": "Harvest Festival",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-09-11T17:00:00Z",
+      "endUTC": "2027-09-18T17:00:00Z"
+    },
+    {
+      "id": "9b884988750999f627e4",
+      "eventID": 1047,
+      "title": "PvP Brawl: Cooking Impossible",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-09-14T15:00:00Z",
+      "endUTC": "2027-09-21T15:00:00Z"
+    },
+    {
+      "id": "4d21ca027d271950490b",
+      "eventID": 398,
+      "title": "Pirates' Day",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-09-19T17:00:00Z",
+      "endUTC": "2027-09-20T17:00:00Z"
+    },
+    {
+      "id": "a5db91ab9c29d0ba6f25",
+      "eventID": 372,
+      "title": "Brewfest",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-09-20T14:00:00Z",
+      "endUTC": "2027-10-06T14:00:00Z"
+    },
+    {
+      "id": "579fa7f4843bd6a37157",
+      "eventID": 1170,
+      "title": "PvP Brawl: Temple of Hotmogu",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-09-21T15:00:00Z",
+      "endUTC": "2027-09-28T15:00:00Z"
+    },
+    {
+      "id": "be56d1712778a2567011",
+      "eventID": 662,
+      "title": "PvP Brawl: Southshore vs. Tarren Mill",
+      "calendarType": "HOLIDAY",
+      "startUTC": "2027-09-28T15:00:00Z",
+      "endUTC": "2027-10-05T15:00:00Z"
+    }
+  ]
+}
